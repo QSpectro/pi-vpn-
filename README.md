@@ -18,7 +18,7 @@ The goal is to learn how VPN technology works, understand secure remote access c
 
 ## Hardware
 
-- Raspberry Pi
+- Raspberry Pi 2 Model B
 - AT&T All-Fi Hub gateway
 - Home network equipment
 
