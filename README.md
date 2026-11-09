@@ -1,4 +1,4 @@
-# PiVPN WireGuard Home VPN Lab
+# Pi-VPN WireGuard Home VPN Lab
 
 ## Project Overview
 
